@@ -22,5 +22,19 @@ Here are some ideas to get you started:
 -->
 
 
-### Hi there 👋
+# 👋 Hi, I'm Denis Smirnov
 
+I'm a Web3 strategist and educator focused on designing sustainable token economies, governance frameworks, and AI-integrated coordination systems.
+
+🔹 Co-founder @ [DAO Builders](https://daobuilders.xyz) — tokenomics & governance lab  
+🔹 Curator @ Codex Town — practical AI education for solopreneurs  
+🔹 Lecturer @ Higher School of Economics — DeFi and digital asset systems  
+🔹 Co-founder @ NFT Protect — securing NFT ownership & recovery
+
+### 💡 Current interests:
+– AI-native token systems  
+– On-chain governance tooling  
+– Cognitive frameworks for decentralized agents  
+– Multi-agent systems & protocol sustainability
+
+> “I believe the future of protocol design lies at the intersection of economics, cognition, and machine agency.”
