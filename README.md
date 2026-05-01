@@ -27,6 +27,7 @@ Here are some ideas to get you started:
 I'm a Web3 strategist and educator focused on designing sustainable token economies, governance frameworks, and AI-integrated coordination systems.
 
 🔹 Co-founder @ [DAO Builders](https://daobuilders.xyz) — tokenomics & governance lab  
+🔹 Lead Researcher @ [Basilisk Labs](https://github.com/basilisk-labs) — cognitive agents & AI experiments 
 🔹 Curator @ Codex Town — practical AI education for solopreneurs  
 🔹 Lecturer @ Higher School of Economics — DeFi and digital asset systems  
 🔹 Co-founder @ NFT Protect — securing NFT ownership & recovery
